@@ -17,4 +17,4 @@ class Person
 end
 
 kanye = Person.new
-p kanye.name
+p kanye.name = "Yeezy"
