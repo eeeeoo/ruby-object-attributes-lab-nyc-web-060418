@@ -17,4 +17,4 @@ class Person
 end
 
 kanye = Person.new
-kanye.name
+p kanye.name
