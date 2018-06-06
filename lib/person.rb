@@ -15,6 +15,3 @@ class Person
     @job
   end
 end
-
-kanye = Person.new ("Kanye")
-p kanye.name 
